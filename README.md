@@ -248,12 +248,3 @@ Contribuições são bem-vindas! Por favor, siga estas diretrizes:
 - **Portfolio:** [seu-portfolio.com](https://seu-portfolio.com)
 - **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-⭐ **Se este repositório foi útil para você, deixe uma estrela!** ⭐
-
-*Desenvolvido com ❤️ por [Seu Nome]*
