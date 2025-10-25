@@ -6,7 +6,6 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
-Bem-vindo ao meu repositório principal! Este é um portfólio abrangente demonstrando minhas habilidades em desenvolvimento full stack, DevOps e cloud computing.
 
 ## 🛠️ Stack Tecnológica
 
